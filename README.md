@@ -5,16 +5,16 @@
 月付15，年付平均10。二十多个节点，解锁gpt和流媒体，无审计。
 
 机场机场网址https://link.dagou.cloud
-
-综合教程网址https://huojian.space
-
-综合教程网址https://huojianx.space
-
-综合教程网址https://wrocket.space
-
-综合教程网址https://xhuojian.blog
-
+综合教程网址https://huojian.online
+综合教程网址https://shadowrocket-huojian.space
+综合教程网址https://srocket.space
+综合教程网址https://shadowrock.blog
 综合教程网址https://jiedianx.com
+节点订阅展示页https:vp.shadowrocket-huojian.space
+节点订阅展示页https:rocket.huojian.online
+节点订阅展示页https:app.srocket.space
+节点订阅展示页https:rocket.jiedianx.com
+节点订阅展示页https:huojian.jiedianx.com
 
 如果您在使用苹果iOS系统，我推荐您使用 Shadowrocket。
 
